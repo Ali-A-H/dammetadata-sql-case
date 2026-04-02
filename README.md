@@ -1,5 +1,3 @@
-# dammetadata-sql-case
-
 # Dammetadata SQL Case
 
 Dette er et lite SQL-prosjekt laget som en demonstrasjon av databasedesign og metadataregistrering.
